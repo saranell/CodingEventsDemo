@@ -18,7 +18,7 @@
     "CodingEventsDemo": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:23921",
+      "applicationUrl": "http://localhost:6421",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
